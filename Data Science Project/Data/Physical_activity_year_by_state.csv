@@ -1,970 +1,1021 @@
-"","Year","State","Physical Activity Percentage"
-"58778",2000,"Alabama",70.3
-"58908",2000,"Alaska",76.5
-"59038",2000,"Arizona",48.7
-"59168",2000,"Arkansas",64.1
-"59298",2000,"California",74.5
-"59428",2000,"Colorado",78.7
-"59558",2000,"Connecticut",72.8
-"59688",2000,"District of Columbia",61.5
-"59815",2000,"Delaware",64.6
-"59945",2000,"Florida",68.9
-"60075",2000,"Georgia",70.4
-"60205",2000,"Hawaii",82
-"60335",2000,"Idaho",79.6
-"60465",2000,"Illinois",72.9
-"60595",2000,"Indiana",72.9
-"60725",2000,"Iowa",73.3
-"60855",2000,"Kansas",61.7
-"60985",2000,"Kentucky",57.4
-"61115",2000,"Louisiana",67.8
-"61245",2000,"Maine",72.3
-"61375",2000,"Maryland",79.7
-"61505",2000,"Massachusetts",74.6
-"61635",2000,"Michigan",78.6
-"61765",2000,"Minnesota",74.5
-"61895",2000,"Mississippi",66.2
-"62025",2000,"Missouri",72.1
-"62155",2000,"Montana",74.8
-"62285",2000,"Nebraska",73.9
-"62415",2000,"Nevada",75.9
-"62545",2000,"New Hampshire",75.2
-"62675",2000,"New Jersey",67.4
-"62805",2000,"New Mexico",77
-"62935",2000,"New York",69
-"63065",2000,"North Carolina",72.3
-"63195",2000,"North Dakota",66.9
-"63325",2000,"Ohio",70.2
-"63455",2000,"Oklahoma",57.1
-"63585",2000,"Oregon",81.1
-"63715",2000,"Pennsylvania",67.3
-"63845",2000,"Rhode Island",70.1
-"63975",2000,"South Carolina",66.3
-"64105",2000,"South Dakota",66.7
-"64235",2000,"Tennessee",64.2
-"64365",2000,"Texas",72.1
-"64495",2000,"Utah",82.9
-"64625",2000,"Vermont",74
-"64755",2000,"Virginia",75.2
-"64885",2000,"Washington",82.4
-"65015",2000,"West Virginia",56.3
-"65145",2000,"Wisconsin",76.6
-"65275",2000,"Wyoming",79
-"51947",2001,"Alabama",68.4
-"52081",2001,"Alaska",80
-"52215",2001,"Arizona",65.8
-"52349",2001,"Arkansas",71.9
-"52483",2001,"California",73.5
-"52617",2001,"Colorado",80.2
-"52751",2001,"Connecticut",74.8
-"52885",2001,"District of Columbia",79.2
-"53016",2001,"Delaware",72
-"53150",2001,"Florida",71.2
-"53284",2001,"Georgia",71
-"53418",2001,"Hawaii",76.8
-"53552",2001,"Idaho",80.2
-"53686",2001,"Illinois",69.1
-"53820",2001,"Indiana",74.6
-"53954",2001,"Iowa",72.7
-"54088",2001,"Kansas",69.6
-"54222",2001,"Kentucky",58.9
-"54356",2001,"Louisiana",63.8
-"54490",2001,"Maine",72.8
-"54624",2001,"Maryland",75.8
-"54758",2001,"Massachusetts",75.4
-"54892",2001,"Michigan",77.1
-"55026",2001,"Minnesota",75.2
-"55160",2001,"Mississippi",66.7
-"55294",2001,"Missouri",71.2
-"55428",2001,"Montana",76.7
-"55562",2001,"Nebraska",70.4
-"55696",2001,"Nevada",75.1
-"55830",2001,"New Hampshire",73.3
-"55964",2001,"New Jersey",71.4
-"56098",2001,"New Mexico",75.6
-"56232",2001,"New York",70.6
-"56366",2001,"North Carolina",69.6
-"56500",2001,"North Dakota",75.7
-"56634",2001,"Ohio",68.7
-"56768",2001,"Oklahoma",65.6
-"56902",2001,"Oregon",79.9
-"57036",2001,"Pennsylvania",77
-"57170",2001,"Rhode Island",72.5
-"57304",2001,"South Carolina",71.9
-"57438",2001,"South Dakota",73.3
-"57572",2001,"Tennessee",67.3
-"57706",2001,"Texas",71.5
-"57840",2001,"Utah",84.5
-"57974",2001,"Vermont",76.8
-"58108",2001,"Virginia",75
-"58242",2001,"Washington",83.1
-"58376",2001,"West Virginia",66.4
-"58510",2001,"Wisconsin",77.9
-"58644",2001,"Wyoming",77.4
-"44966",2002,"Alabama",68.8
-"45103",2002,"Alaska",78.9
-"45240",2002,"Arizona",78.1
-"45377",2002,"Arkansas",68.5
-"45514",2002,"California",73.4
-"45651",2002,"Colorado",80.8
-"45788",2002,"Connecticut",76
-"45925",2002,"District of Columbia",75.8
-"46059",2002,"Delaware",74.3
-"46196",2002,"Florida",72.3
-"46333",2002,"Georgia",72.7
-"46470",2002,"Hawaii",81.1
-"46607",2002,"Idaho",79
-"46744",2002,"Illinois",73.5
-"46881",2002,"Indiana",73.8
-"47018",2002,"Iowa",74.1
-"47155",2002,"Kansas",73.3
-"47292",2002,"Kentucky",66.6
-"47429",2002,"Louisiana",64.4
-"47566",2002,"Maine",76.8
-"47703",2002,"Maryland",75.8
-"47840",2002,"Massachusetts",77.2
-"47977",2002,"Michigan",76.6
-"48114",2002,"Minnesota",82.9
-"48251",2002,"Mississippi",66.6
-"48388",2002,"Missouri",72.5
-"48525",2002,"Montana",78.1
-"48662",2002,"Nebraska",68.6
-"48799",2002,"Nevada",77.4
-"48936",2002,"New Hampshire",80.5
-"49073",2002,"New Jersey",73.4
-"49210",2002,"New Mexico",74.2
-"49347",2002,"New York",71.3
-"49484",2002,"North Carolina",73.6
-"49621",2002,"North Dakota",76.8
-"49758",2002,"Ohio",73.8
-"49895",2002,"Oklahoma",67.2
-"50032",2002,"Oregon",79.2
-"50169",2002,"Pennsylvania",75.3
-"50306",2002,"Rhode Island",75.1
-"50443",2002,"South Carolina",73.6
-"50580",2002,"South Dakota",74.6
-"50717",2002,"Tennessee",64.9
-"50854",2002,"Texas",72.9
-"50991",2002,"Utah",83.5
-"51128",2002,"Vermont",79.7
-"51265",2002,"Virginia",76.8
-"51402",2002,"Washington",82.9
-"51539",2002,"West Virginia",68.3
-"51676",2002,"Wisconsin",79.3
-"51813",2002,"Wyoming",78.8
-"37829",2003,"Alabama",72.7
-"37969",2003,"Alaska",77.6
-"38109",2003,"Arizona",77.4
-"38249",2003,"Arkansas",72.6
-"38389",2003,"California",77.3
-"38529",2003,"Colorado",80.7
-"38669",2003,"Connecticut",78
-"38809",2003,"District of Columbia",79.1
-"38946",2003,"Delaware",72.9
-"39086",2003,"Florida",72.1
-"39226",2003,"Georgia",74.3
-"39366",2003,"Hawaii",83.9
-"39506",2003,"Idaho",80.7
-"39646",2003,"Illinois",71.4
-"39786",2003,"Indiana",72.5
-"39926",2003,"Iowa",78.2
-"40066",2003,"Kansas",77.5
-"40206",2003,"Kentucky",73.4
-"40346",2003,"Louisiana",66.5
-"40486",2003,"Maine",74.2
-"40626",2003,"Maryland",77
-"40766",2003,"Massachusetts",79.2
-"40906",2003,"Michigan",75.9
-"41046",2003,"Minnesota",83.8
-"41186",2003,"Mississippi",67.5
-"41326",2003,"Missouri",73.5
-"41466",2003,"Montana",80.8
-"41606",2003,"Nebraska",78
-"41746",2003,"Nevada",75.2
-"41886",2003,"New Hampshire",80.1
-"42026",2003,"New Jersey",74
-"42166",2003,"New Mexico",77
-"42306",2003,"New York",74.9
-"42446",2003,"North Carolina",70.5
-"42586",2003,"North Dakota",78.3
-"42726",2003,"Ohio",74.6
-"42866",2003,"Oklahoma",69.4
-"43006",2003,"Oregon",82.1
-"43146",2003,"Pennsylvania",75.6
-"43286",2003,"Rhode Island",75.4
-"43426",2003,"South Carolina",75.4
-"43566",2003,"South Dakota",76.2
-"43706",2003,"Tennessee",66.4
-"43846",2003,"Texas",70.7
-"43986",2003,"Utah",81.1
-"44126",2003,"Vermont",81.7
-"44266",2003,"Virginia",75.6
-"44406",2003,"Washington",85
-"44546",2003,"West Virginia",71.6
-"44686",2003,"Wisconsin",80
-"44826",2003,"Wyoming",79.6
-"30334",2004,"Alabama",70.1
-"30481",2004,"Alaska",80.8
-"30628",2004,"Arizona",78.8
-"30775",2004,"Arkansas",70.9
-"30922",2004,"California",77.7
-"31069",2004,"Colorado",83.2
-"31216",2004,"Connecticut",79
-"31363",2004,"District of Columbia",77.5
-"31507",2004,"Delaware",73.5
-"31654",2004,"Florida",72.1
-"31801",2004,"Georgia",75.5
-"31948",2004,"Hawaii",81.7
-"32095",2004,"Idaho",81.4
-"32242",2004,"Illinois",74.3
-"32389",2004,"Indiana",73.8
-"32536",2004,"Iowa",77.3
-"32683",2004,"Kansas",74.1
-"32830",2004,"Kentucky",69.4
-"32977",2004,"Louisiana",69.5
-"33124",2004,"Maine",79.4
-"33271",2004,"Maryland",78.7
-"33418",2004,"Massachusetts",78.4
-"33565",2004,"Michigan",78.2
-"33712",2004,"Minnesota",85
-"33859",2004,"Mississippi",69.7
-"34006",2004,"Missouri",76
-"34153",2004,"Montana",79.8
-"34300",2004,"Nebraska",79.3
-"34447",2004,"Nevada",75.3
-"34594",2004,"New Hampshire",80.1
-"34741",2004,"New Jersey",73.1
-"34888",2004,"New Mexico",77.1
-"35035",2004,"New York",72.9
-"35182",2004,"North Carolina",75
-"35329",2004,"North Dakota",76.3
-"35476",2004,"Ohio",73.6
-"35623",2004,"Oklahoma",69.6
-"35770",2004,"Oregon",81.2
-"35917",2004,"Pennsylvania",77.4
-"36064",2004,"Rhode Island",76.7
-"36211",2004,"South Carolina",76.7
-"36358",2004,"South Dakota",78.3
-"36505",2004,"Tennessee",70.2
-"36652",2004,"Texas",72.4
-"36799",2004,"Utah",82.7
-"36946",2004,"Vermont",81.3
-"37093",2004,"Virginia",77.9
-"37240",2004,"Washington",82.3
-"37387",2004,"West Virginia",72
-"37534",2004,"Wisconsin",81.2
-"37681",2004,"Wyoming",78.9
-"22887",2005,"Alabama",70.4
-"23033",2005,"Alaska",79.4
-"23179",2005,"Arizona",75.8
-"23325",2005,"Arkansas",73.5
-"23471",2005,"California",77.3
-"23617",2005,"Colorado",81.3
-"23763",2005,"Connecticut",81.1
-"23909",2005,"District of Columbia",77.7
-"24053",2005,"Delaware",78.2
-"24199",2005,"Florida",76.4
-"24345",2005,"Georgia",74.2
-"24491",2005,"Hawaii",81.7
-"24637",2005,"Idaho",80.9
-"24783",2005,"Illinois",75.1
-"24929",2005,"Indiana",74.7
-"25075",2005,"Iowa",78.7
-"25221",2005,"Kansas",76.8
-"25367",2005,"Kentucky",70.2
-"25513",2005,"Louisiana",70.2
-"25659",2005,"Maine",78.5
-"25805",2005,"Maryland",78.2
-"25951",2005,"Massachusetts",80
-"26097",2005,"Michigan",77.9
-"26243",2005,"Minnesota",84.1
-"26389",2005,"Mississippi",68.7
-"26535",2005,"Missouri",75.2
-"26681",2005,"Montana",81.1
-"26827",2005,"Nebraska",78.4
-"26973",2005,"Nevada",75.8
-"27119",2005,"New Hampshire",81.5
-"27265",2005,"New Jersey",74.3
-"27411",2005,"New Mexico",78.8
-"27557",2005,"New York",73.5
-"27703",2005,"North Carolina",75.3
-"27849",2005,"North Dakota",78.7
-"27995",2005,"Ohio",77
-"28141",2005,"Oklahoma",72.2
-"28287",2005,"Oregon",82.8
-"28433",2005,"Pennsylvania",75.6
-"28579",2005,"Rhode Island",75.8
-"28725",2005,"South Carolina",76.2
-"28871",2005,"South Dakota",81
-"29017",2005,"Tennessee",70.3
-"29163",2005,"Texas",73.9
-"29309",2005,"Utah",83.1
-"29455",2005,"Vermont",81.9
-"29601",2005,"Virginia",78.1
-"29747",2005,"Washington",82.7
-"29893",2005,"West Virginia",75.5
-"30039",2005,"Wisconsin",81.5
-"30185",2005,"Wyoming",79.9
-"15342",2006,"Alabama",70.3
-"15490",2006,"Alaska",78.6
-"15638",2006,"Arizona",77.4
-"15786",2006,"Arkansas",69.4
-"15934",2006,"California",76.1
-"16082",2006,"Colorado",82.7
-"16230",2006,"Connecticut",78.8
-"16378",2006,"District of Columbia",77.5
-"16524",2006,"Delaware",76.7
-"16672",2006,"Florida",73.1
-"16820",2006,"Georgia",72.8
-"16968",2006,"Hawaii",80.5
-"17116",2006,"Idaho",78.4
-"17264",2006,"Illinois",74.4
-"17412",2006,"Indiana",73.1
-"17560",2006,"Iowa",75.3
-"17708",2006,"Kansas",75.6
-"17856",2006,"Kentucky",68.5
-"18004",2006,"Louisiana",66.6
-"18152",2006,"Maine",77.7
-"18300",2006,"Maryland",77.1
-"18448",2006,"Massachusetts",76.7
-"18596",2006,"Michigan",77.5
-"18744",2006,"Minnesota",83.8
-"18892",2006,"Mississippi",67.6
-"19040",2006,"Missouri",74.6
-"19188",2006,"Montana",77.6
-"19336",2006,"Nebraska",76.2
-"19484",2006,"Nevada",73.2
-"19632",2006,"New Hampshire",78.4
-"19780",2006,"New Jersey",70.8
-"19928",2006,"New Mexico",76.7
-"20076",2006,"New York",72.9
-"20224",2006,"North Carolina",74.4
-"20372",2006,"North Dakota",76.9
-"20520",2006,"Ohio",74.4
-"20668",2006,"Oklahoma",69.4
-"20816",2006,"Oregon",81.4
-"20964",2006,"Pennsylvania",74.2
-"21112",2006,"Rhode Island",74.1
-"21260",2006,"South Carolina",73.7
-"21408",2006,"South Dakota",77.5
-"21556",2006,"Tennessee",66.9
-"21704",2006,"Texas",72.6
-"21852",2006,"Utah",81.5
-"22000",2006,"Vermont",80.8
-"22148",2006,"Virginia",78.7
-"22296",2006,"Washington",82.6
-"22444",2006,"West Virginia",71.5
-"22592",2006,"Wisconsin",81.3
-"22740",2006,"Wyoming",78
-"7894",2007,"Alabama",70.8
-"8040",2007,"Alaska",78.6
-"8186",2007,"Arizona",77.7
-"8332",2007,"Arkansas",71.3
-"8478",2007,"California",77
-"8624",2007,"Colorado",82.6
-"8770",2007,"Connecticut",80.2
-"8916",2007,"District of Columbia",77.9
-"9062",2007,"Delaware",78.4
-"9208",2007,"Florida",74.9
-"9354",2007,"Georgia",75.3
-"9500",2007,"Hawaii",80.7
-"9646",2007,"Idaho",79.2
-"9792",2007,"Illinois",77.6
-"9938",2007,"Indiana",74.7
-"10084",2007,"Iowa",77.7
-"10230",2007,"Kansas",77.4
-"10376",2007,"Kentucky",69.6
-"10522",2007,"Louisiana",69
-"10668",2007,"Maine",79.1
-"10814",2007,"Maryland",77
-"10960",2007,"Massachusetts",78.9
-"11106",2007,"Michigan",77.2
-"11252",2007,"Minnesota",85.8
-"11398",2007,"Mississippi",68.9
-"11544",2007,"Missouri",76.8
-"11690",2007,"Montana",80.6
-"11836",2007,"Nebraska",79
-"11982",2007,"Nevada",72.9
-"12128",2007,"New Hampshire",80.4
-"12274",2007,"New Jersey",73
-"12420",2007,"New Mexico",77.4
-"12566",2007,"New York",74
-"12712",2007,"North Carolina",76.2
-"12858",2007,"North Dakota",78
-"13004",2007,"Ohio",75.5
-"13150",2007,"Oklahoma",70.2
-"13296",2007,"Oregon",83.6
-"13442",2007,"Pennsylvania",77.1
-"13588",2007,"Rhode Island",75.3
-"13734",2007,"South Carolina",75.7
-"13880",2007,"South Dakota",76
-"14026",2007,"Tennessee",71.2
-"14172",2007,"Texas",71.6
-"14318",2007,"Utah",80.6
-"14464",2007,"Vermont",82.1
-"14610",2007,"Virginia",78.3
-"14756",2007,"Washington",82.7
-"14902",2007,"West Virginia",74.4
-"15048",2007,"Wisconsin",80.7
-"15194",2007,"Wyoming",78.1
-"38",2008,"Alabama",70.2
-"192",2008,"Alaska",80
-"346",2008,"Arizona",77.6
-"500",2008,"Arkansas",71.9
-"654",2008,"California",76.9
-"808",2008,"Colorado",82.7
-"962",2008,"Connecticut",80.3
-"1116",2008,"District of Columbia",78.7
-"1270",2008,"Delaware",77.9
-"1424",2008,"Florida",74.6
-"1578",2008,"Georgia",75.3
-"1732",2008,"Hawaii",82
-"1886",2008,"Idaho",80.4
-"2040",2008,"Illinois",77
-"2194",2008,"Indiana",75.8
-"2348",2008,"Iowa",77.9
-"2502",2008,"Kansas",77
-"2656",2008,"Kentucky",69.7
-"2810",2008,"Louisiana",70
-"2964",2008,"Maine",79.7
-"3118",2008,"Maryland",77
-"3272",2008,"Massachusetts",78.9
-"3426",2008,"Michigan",79.2
-"3580",2008,"Minnesota",83.3
-"3734",2008,"Mississippi",68.2
-"3888",2008,"Missouri",74.5
-"4042",2008,"Montana",80.4
-"4196",2008,"Nebraska",77.8
-"4350",2008,"Nevada",75.6
-"4504",2008,"New Hampshire",80.9
-"4658",2008,"New Jersey",73.9
-"4812",2008,"New Mexico",78.3
-"4966",2008,"New York",75.6
-"5120",2008,"North Carolina",75.7
-"5274",2008,"North Dakota",77.5
-"5428",2008,"Ohio",75.7
-"5582",2008,"Oklahoma",70.4
-"5736",2008,"Oregon",82.7
-"5890",2008,"Pennsylvania",76.6
-"6044",2008,"Rhode Island",76.6
-"6198",2008,"South Carolina",75.2
-"6352",2008,"South Dakota",77.4
-"6506",2008,"Tennessee",68.5
-"6660",2008,"Texas",71.7
-"6814",2008,"Utah",80.5
-"6968",2008,"Vermont",81.7
-"7122",2008,"Virginia",78.4
-"7276",2008,"Washington",82.4
-"7430",2008,"West Virginia",71.8
-"7584",2008,"Wisconsin",80.6
-"7738",2008,"Wyoming",78.3
-"65399",2009,"Alabama",70.5
-"65542",2009,"Alaska",75.9
-"65685",2009,"Arizona",76.8
-"65828",2009,"Arkansas",70.2
-"65971",2009,"California",76.6
-"66114",2009,"Colorado",81.1
-"66257",2009,"Connecticut",77.5
-"66400",2009,"District of Columbia",78.8
-"66543",2009,"Delaware",75.8
-"66686",2009,"Florida",74
-"66829",2009,"Georgia",76.9
-"66972",2009,"Hawaii",80.4
-"67115",2009,"Idaho",78.8
-"67258",2009,"Illinois",72
-"67401",2009,"Indiana",72.2
-"67544",2009,"Iowa",74.9
-"67687",2009,"Kansas",74.4
-"67830",2009,"Kentucky",69.5
-"67973",2009,"Louisiana",70.1
-"68116",2009,"Maine",77.1
-"68259",2009,"Maryland",76
-"68402",2009,"Massachusetts",77.9
-"68545",2009,"Michigan",74.8
-"68688",2009,"Minnesota",81.9
-"68831",2009,"Mississippi",67.4
-"68974",2009,"Missouri",72.4
-"69117",2009,"Montana",76.8
-"69260",2009,"Nebraska",75.3
-"69403",2009,"Nevada",72.4
-"69546",2009,"New Hampshire",78.5
-"69689",2009,"New Jersey",73
-"69832",2009,"New Mexico",76
-"69975",2009,"New York",73.6
-"70118",2009,"North Carolina",75.3
-"70261",2009,"North Dakota",74.4
-"70404",2009,"Ohio",73.9
-"70547",2009,"Oklahoma",68.5
-"70690",2009,"Oregon",80.9
-"70833",2009,"Pennsylvania",74.2
-"70976",2009,"Rhode Island",75.7
-"71119",2009,"South Carolina",72.8
-"71262",2009,"South Dakota",73.1
-"71405",2009,"Tennessee",71
-"71548",2009,"Texas",71.5
-"71691",2009,"Utah",80.2
-"71834",2009,"Vermont",80.5
-"71977",2009,"Virginia",76.4
-"72120",2009,"Washington",80.6
-"72263",2009,"West Virginia",68.9
-"72406",2009,"Wisconsin",77.9
-"72549",2009,"Wyoming",75.6
-"72692",2010,"Alabama",69
-"72845",2010,"Alaska",77.6
-"72998",2010,"Arizona",81
-"73151",2010,"Arkansas",70.2
-"73304",2010,"California",77.9
-"73457",2010,"Colorado",82.3
-"73610",2010,"Connecticut",78.4
-"73763",2010,"District of Columbia",80.4
-"73916",2010,"Delaware",78.1
-"74069",2010,"Florida",75.3
-"74222",2010,"Georgia",75.8
-"74375",2010,"Hawaii",80.4
-"74528",2010,"Idaho",79
-"74681",2010,"Illinois",76.4
-"74834",2010,"Indiana",72.8
-"74987",2010,"Iowa",75.8
-"75140",2010,"Kansas",76.8
-"75293",2010,"Kentucky",70.3
-"75446",2010,"Louisiana",71.4
-"75599",2010,"Maine",78.8
-"75752",2010,"Maryland",76.2
-"75905",2010,"Massachusetts",79.1
-"76058",2010,"Michigan",76.4
-"76211",2010,"Minnesota",84.2
-"76364",2010,"Mississippi",67.7
-"76517",2010,"Missouri",73.3
-"76670",2010,"Montana",78
-"76823",2010,"Nebraska",75.8
-"76976",2010,"Nevada",75.6
-"77129",2010,"New Hampshire",78.8
-"77282",2010,"New Jersey",73.8
-"77435",2010,"New Mexico",77.6
-"77588",2010,"New York",73.6
-"77741",2010,"North Carolina",73.6
-"77894",2010,"North Dakota",73.2
-"78047",2010,"Ohio",73.6
-"78200",2010,"Oklahoma",68.6
-"78353",2010,"Oregon",82.3
-"78506",2010,"Pennsylvania",74.3
-"78659",2010,"Rhode Island",75.1
-"78812",2010,"South Carolina",73.8
-"78965",2010,"South Dakota",75.5
-"79118",2010,"Tennessee",69
-"79271",2010,"Texas",72.7
-"79424",2010,"Utah",82.3
-"79577",2010,"Vermont",79.8
-"79730",2010,"Virginia",78.1
-"79883",2010,"Washington",80.5
-"80036",2010,"West Virginia",66.8
-"80189",2010,"Wisconsin",78
-"80342",2010,"Wyoming",77.5
-"80495",2011,"Alabama",68.9
-"80662",2011,"Alaska",78
-"80829",2011,"Arizona",78
-"80996",2011,"Arkansas",70.2
-"81163",2011,"California",79.6
-"81330",2011,"Colorado",81.8
-"81497",2011,"Connecticut",79.3
-"81664",2011,"District of Columbia",78.6
-"81831",2011,"Delaware",76.1
-"81998",2011,"Florida",76
-"82165",2011,"Georgia",74.9
-"82332",2011,"Hawaii",80.8
-"82499",2011,"Idaho",80
-"82666",2011,"Illinois",74.3
-"82833",2011,"Indiana",73.5
-"83000",2011,"Iowa",75.2
-"83167",2011,"Kansas",76
-"83334",2011,"Kentucky",70.7
-"83501",2011,"Louisiana",69.9
-"83668",2011,"Maine",77.5
-"83835",2011,"Maryland",76.9
-"84002",2011,"Massachusetts",79.4
-"84169",2011,"Michigan",76.4
-"84336",2011,"Minnesota",80.9
-"84503",2011,"Mississippi",67
-"84670",2011,"Missouri",72.8
-"84837",2011,"Montana",78.4
-"85004",2011,"Nebraska",75.3
-"85171",2011,"Nevada",77
-"85338",2011,"New Hampshire",80.1
-"85505",2011,"New Jersey",73.4
-"85672",2011,"New Mexico",78.4
-"85839",2011,"New York",76.1
-"86006",2011,"North Carolina",74.3
-"86173",2011,"North Dakota",75.2
-"86340",2011,"Ohio",73.9
-"86507",2011,"Oklahoma",70.1
-"86674",2011,"Oregon",82.5
-"86841",2011,"Pennsylvania",74.2
-"87008",2011,"Rhode Island",75.9
-"87175",2011,"South Carolina",72.2
-"87342",2011,"South Dakota",75.3
-"87509",2011,"Tennessee",70.1
-"87676",2011,"Texas",73.4
-"87843",2011,"Utah",82.1
-"88010",2011,"Vermont",82.1
-"88177",2011,"Virginia",76.7
-"88344",2011,"Washington",81.7
-"88511",2011,"West Virginia",67.1
-"88678",2011,"Wisconsin",77.2
-"88845",2011,"Wyoming",77.8
-"89055",2012,"Alabama",67.4
-"89606",2012,"Alaska",78
-"90157",2012,"Arizona",75.8
-"90708",2012,"Arkansas",69.1
-"91259",2012,"California",80.9
-"91810",2012,"Colorado",83.5
-"92361",2012,"Connecticut",74.5
-"92912",2012,"District of Columbia",80.2
-"93463",2012,"Delaware",73
-"94014",2012,"Florida",73.1
-"94565",2012,"Georgia",73.3
-"95116",2012,"Hawaii",78.7
-"95667",2012,"Idaho",78.6
-"96218",2012,"Illinois",74.9
-"96769",2012,"Indiana",70.8
-"97320",2012,"Iowa",74.1
-"97871",2012,"Kansas",73.2
-"98422",2012,"Kentucky",70.7
-"98973",2012,"Louisiana",66.2
-"99524",2012,"Maine",77
-"100075",2012,"Maryland",73.8
-"100626",2012,"Massachusetts",76.5
-"101177",2012,"Michigan",76.4
-"101728",2012,"Minnesota",78.1
-"102279",2012,"Mississippi",64
-"102830",2012,"Missouri",71.6
-"103381",2012,"Montana",75.6
-"103932",2012,"Nebraska",73.7
-"104483",2012,"Nevada",75.7
-"105034",2012,"New Hampshire",77.5
-"105585",2012,"New Jersey",73.6
-"106136",2012,"New Mexico",74.7
-"106687",2012,"New York",73.7
-"107238",2012,"North Carolina",73.3
-"107789",2012,"North Dakota",72.9
-"108340",2012,"Ohio",73
-"108891",2012,"Oklahoma",68.8
-"109442",2012,"Oregon",80.3
-"109993",2012,"Pennsylvania",73.8
-"110544",2012,"Rhode Island",73.8
-"111095",2012,"South Carolina",72.8
-"111646",2012,"South Dakota",73.1
-"112197",2012,"Tennessee",64.9
-"112748",2012,"Texas",72.8
-"113299",2012,"Utah",81.1
-"113850",2012,"Vermont",79
-"114401",2012,"Virginia",75
-"114952",2012,"Washington",78
-"115503",2012,"West Virginia",64.9
-"116054",2012,"Wisconsin",77.3
-"116605",2012,"Wyoming",74.5
-"146457",2014,"Alabama",68.5
-"147099",2014,"Alaska",77.7
-"147741",2014,"Arizona",74.8
-"148383",2014,"Arkansas",65.6
-"149025",2014,"California",78.6
-"149667",2014,"Colorado",82.1
-"150309",2014,"Connecticut",75.1
-"150951",2014,"District of Columbia",80.5
-"151592",2014,"Delaware",72.2
-"152234",2014,"Florida",72.3
-"152876",2014,"Georgia",72.8
-"153518",2014,"Hawaii",77.9
-"154160",2014,"Idaho",76.3
-"154802",2014,"Illinois",74.9
-"155444",2014,"Indiana",69
-"156086",2014,"Iowa",71.5
-"156728",2014,"Kansas",73.5
-"157370",2014,"Kentucky",69.8
-"158012",2014,"Louisiana",67.8
-"158654",2014,"Maine",76.7
-"159296",2014,"Maryland",74.7
-"159938",2014,"Massachusetts",76.5
-"160580",2014,"Michigan",75.6
-"161222",2014,"Minnesota",76.5
-"161864",2014,"Mississippi",61.9
-"162506",2014,"Missouri",71.7
-"163148",2014,"Montana",77.5
-"163790",2014,"Nebraska",74.7
-"164432",2014,"Nevada",76.3
-"165074",2014,"New Hampshire",77.6
-"165716",2014,"New Jersey",73.2
-"166358",2014,"New Mexico",75.7
-"167000",2014,"New York",73.3
-"167642",2014,"North Carolina",73.4
-"168284",2014,"North Dakota",72.4
-"168926",2014,"Ohio",71.5
-"169568",2014,"Oklahoma",67
-"170210",2014,"Oregon",81.5
-"170852",2014,"Pennsylvania",73.7
-"171494",2014,"Rhode Island",73.1
-"172136",2014,"South Carolina",73.1
-"172778",2014,"South Dakota",76.2
-"173420",2014,"Tennessee",62.8
-"174062",2014,"Texas",69.9
-"174704",2014,"Utah",79.4
-"175346",2014,"Vermont",79.5
-"175988",2014,"Virginia",74.5
-"176630",2014,"Washington",80
-"177272",2014,"West Virginia",68.6
-"177914",2014,"Wisconsin",76.2
-"178556",2014,"Wyoming",74.9
-"179239",2015,"Alabama",72.4
-"179905",2015,"Alaska",80.8
-"180571",2015,"Arizona",78.8
-"181237",2015,"Arkansas",69.3
-"181903",2015,"California",78.3
-"182569",2015,"Colorado",83.6
-"183235",2015,"Connecticut",79.4
-"183901",2015,"District of Columbia",79.2
-"184566",2015,"Delaware",75.1
-"185232",2015,"Florida",76.3
-"185898",2015,"Georgia",76.4
-"186564",2015,"Hawaii",80.4
-"187230",2015,"Idaho",81.3
-"187896",2015,"Illinois",76.1
-"188562",2015,"Indiana",73.9
-"189228",2015,"Iowa",77.4
-"189894",2015,"Kansas",76.2
-"190560",2015,"Kentucky",71.8
-"191225",2015,"Louisiana",70.5
-"191891",2015,"Maine",80.3
-"192557",2015,"Maryland",78.6
-"193223",2015,"Massachusetts",79.9
-"193889",2015,"Michigan",74.5
-"194555",2015,"Minnesota",79.8
-"195221",2015,"Mississippi",68.4
-"195887",2015,"Missouri",75
-"196553",2015,"Montana",80.4
-"197219",2015,"Nebraska",78.7
-"197885",2015,"Nevada",77.5
-"198551",2015,"New Hampshire",80.7
-"199217",2015,"New Jersey",76.7
-"199883",2015,"New Mexico",76.7
-"200549",2015,"New York",74.1
-"201215",2015,"North Carolina",76.8
-"201881",2015,"North Dakota",78.7
-"202547",2015,"Ohio",75
-"203213",2015,"Oklahoma",71.7
-"203879",2015,"Oregon",83.5
-"204545",2015,"Pennsylvania",76.7
-"205211",2015,"Rhode Island",77.5
-"205877",2015,"South Carolina",74.7
-"206543",2015,"South Dakota",78.8
-"207209",2015,"Tennessee",73.2
-"207875",2015,"Texas",72.4
-"208541",2015,"Utah",83.2
-"209207",2015,"Vermont",81
-"209873",2015,"Virginia",76.5
-"210539",2015,"Washington",81.9
-"211205",2015,"West Virginia",71.3
-"211871",2015,"Wisconsin",78.8
-"212537",2015,"Wyoming",77.9
-"213194",2016,"Alabama",68.1
-"213919",2016,"Alaska",78
-"214644",2016,"Arizona",75.3
-"215369",2016,"Arkansas",65.8
-"216094",2016,"California",80
-"216819",2016,"Colorado",82.1
-"217544",2016,"Connecticut",76.5
-"218268",2016,"District of Columbia",80.6
-"218987",2016,"Delaware",70.6
-"219712",2016,"Florida",73.8
-"220437",2016,"Georgia",72.7
-"221162",2016,"Hawaii",77.5
-"221887",2016,"Idaho",78.8
-"222612",2016,"Illinois",75.2
-"223337",2016,"Indiana",70.6
-"224062",2016,"Iowa",73.7
-"224787",2016,"Kansas",73.5
-"225512",2016,"Kentucky",67.5
-"226237",2016,"Louisiana",68.1
-"226962",2016,"Maine",75.2
-"227687",2016,"Maryland",75.9
-"228412",2016,"Massachusetts",73.5
-"229137",2016,"Michigan",74.5
-"229862",2016,"Minnesota",78.2
-"230587",2016,"Mississippi",63.2
-"231312",2016,"Missouri",73
-"232037",2016,"Montana",77.5
-"232762",2016,"Nebraska",74.7
-"233487",2016,"Nevada",75.3
-"234212",2016,"New Hampshire",77.4
-"234937",2016,"New Jersey",72.8
-"235662",2016,"New Mexico",77.4
-"236387",2016,"New York",70.7
-"237112",2016,"North Carolina",73.8
-"237837",2016,"North Dakota",73.2
-"238562",2016,"Ohio",73
-"239287",2016,"Oklahoma",66.8
-"240012",2016,"Oregon",81.2
-"240737",2016,"Pennsylvania",72.2
-"241462",2016,"Rhode Island",71.9
-"242187",2016,"South Carolina",73.3
-"242912",2016,"South Dakota",78.5
-"243637",2016,"Tennessee",69.6
-"244362",2016,"Texas",70.5
-"245087",2016,"Utah",79.7
-"245812",2016,"Vermont",77.8
-"246537",2016,"Virginia",74.9
-"247262",2016,"Washington",81
-"247987",2016,"West Virginia",69.2
-"248712",2016,"Wisconsin",78.4
-"249437",2016,"Wyoming",73.8
-"250162",2017,"Alabama",70.6
-"250918",2017,"Alaska",80.9
-"251674",2017,"Arizona",76.9
-"252430",2017,"Arkansas",67.5
-"253186",2017,"California",79.5
-"253942",2017,"Colorado",84.2
-"254698",2017,"Connecticut",78.7
-"255453",2017,"District of Columbia",83.8
-"256203",2017,"Delaware",73.4
-"256959",2017,"Florida",70.2
-"257715",2017,"Georgia",70.6
-"258471",2017,"Hawaii",79.2
-"259227",2017,"Idaho",79.8
-"259983",2017,"Illinois",76.1
-"260739",2017,"Indiana",73.2
-"261495",2017,"Iowa",77.3
-"262251",2017,"Kansas",76.5
-"263007",2017,"Kentucky",70.2
-"263763",2017,"Louisiana",70.9
-"264519",2017,"Maine",79.4
-"265275",2017,"Maryland",76.9
-"266031",2017,"Massachusetts",80
-"266787",2017,"Michigan",76.1
-"267543",2017,"Minnesota",82
-"268299",2017,"Mississippi",69.7
-"269055",2017,"Missouri",75.1
-"269811",2017,"Montana",80.1
-"270567",2017,"Nebraska",77.6
-"271323",2017,"Nevada",75.3
-"272079",2017,"New Hampshire",80.7
-"272835",2017,"New Jersey",70.2
-"273591",2017,"New Mexico",79.7
-"274347",2017,"New York",73.7
-"275103",2017,"North Carolina",76.7
-"275859",2017,"North Dakota",77.8
-"276615",2017,"Ohio",74.1
-"277371",2017,"Oklahoma",71.5
-"278127",2017,"Oregon",82.8
-"278883",2017,"Pennsylvania",77.1
-"279639",2017,"Rhode Island",75.6
-"280395",2017,"South Carolina",73.1
-"281151",2017,"South Dakota",81.1
-"281907",2017,"Tennessee",71.6
-"282663",2017,"Texas",74.8
-"283419",2017,"Utah",84.3
-"284175",2017,"Vermont",80.5
-"284931",2017,"Virginia",76.7
-"285687",2017,"Washington",82.4
-"286443",2017,"West Virginia",71.5
-"287199",2017,"Wisconsin",80
-"287955",2017,"Wyoming",76.9
-"288711",2018,"Alabama",68
-"289491",2018,"Alaska",79.4
-"290271",2018,"Arizona",74.9
-"291051",2018,"Arkansas",67.5
-"291831",2018,"California",80
-"292611",2018,"Colorado",80.5
-"293391",2018,"Connecticut",76
-"294170",2018,"District of Columbia",77
-"294944",2018,"Delaware",69
-"295724",2018,"Florida",70.8
-"296504",2018,"Georgia",69
-"297284",2018,"Hawaii",76.5
-"298064",2018,"Idaho",75.8
-"298844",2018,"Illinois",76
-"299624",2018,"Indiana",70.2
-"300404",2018,"Iowa",75
-"301184",2018,"Kansas",72.1
-"301964",2018,"Kentucky",65.6
-"302744",2018,"Louisiana",68.2
-"303524",2018,"Maine",74.8
-"304304",2018,"Maryland",74.4
-"305084",2018,"Massachusetts",75.2
-"305864",2018,"Michigan",72.8
-"306644",2018,"Minnesota",75.4
-"307424",2018,"Mississippi",66.8
-"308204",2018,"Missouri",70.8
-"308984",2018,"Montana",75
-"309764",2018,"Nebraska",74.6
-"310544",2018,"Nevada",72
-"311324",2018,"New Hampshire",76.1
-"312104",2018,"New Jersey",71
-"312884",2018,"New Mexico",75.5
-"313664",2018,"New York",72.8
-"314444",2018,"North Carolina",74.4
-"315224",2018,"North Dakota",72.4
-"316004",2018,"Ohio",70.4
-"316784",2018,"Oklahoma",67.6
-"317564",2018,"Oregon",78.6
-"318344",2018,"Pennsylvania",75.1
-"319124",2018,"Rhode Island",73.7
-"319904",2018,"South Carolina",71.6
-"320684",2018,"South Dakota",75.1
-"321464",2018,"Tennessee",69.4
-"322244",2018,"Texas",67.9
-"323024",2018,"Utah",78.9
-"323804",2018,"Vermont",78.4
-"324584",2018,"Virginia",74.1
-"325364",2018,"Washington",80.8
-"326144",2018,"West Virginia",68.4
-"326924",2018,"Wisconsin",77.6
-"327704",2018,"Wyoming",74.3
-"328487",2019,"Alabama",69.3
-"329366",2019,"Alaska",80.4
-"330245",2019,"Arizona",77.9
-"331124",2019,"Arkansas",69
-"332003",2019,"California",79
-"332882",2019,"Colorado",83.6
-"333761",2019,"Connecticut",77.6
-"334640",2019,"District of Columbia",80.4
-"335513",2019,"Delaware",73.2
-"336392",2019,"Florida",73.2
-"337271",2019,"Georgia",73.8
-"338150",2019,"Hawaii",80.1
-"339029",2019,"Idaho",79.5
-"339908",2019,"Illinois",75.4
-"340787",2019,"Indiana",72.6
-"341666",2019,"Iowa",77.1
-"342545",2019,"Kansas",77.5
-"343424",2019,"Kentucky",67.6
-"344303",2019,"Louisiana",69.2
-"345182",2019,"Maine",77.5
-"346061",2019,"Maryland",77.1
-"346940",2019,"Massachusetts",77.6
-"347819",2019,"Michigan",76.2
-"348698",2019,"Minnesota",79.5
-"349577",2019,"Mississippi",68
-"350456",2019,"Missouri",73.9
-"351335",2019,"Montana",77.3
-"352214",2019,"Nebraska",76.2
-"353093",2019,"Nevada",75
-"353972",2019,"New Hampshire",78.5
-"354851",2019,"New Jersey",71.5
-"355730",2019,"New Mexico",77.8
-"356609",2019,"New York",76.2
-"357488",2019,"North Carolina",76.1
-"358367",2019,"North Dakota",77.7
-"359246",2019,"Ohio",74.6
-"360125",2019,"Oklahoma",72.8
-"361004",2019,"Oregon",80.7
-"361883",2019,"Pennsylvania",76
-"362762",2019,"Rhode Island",74.7
-"363641",2019,"South Carolina",73.3
-"364520",2019,"South Dakota",76
-"365399",2019,"Tennessee",69.1
-"366278",2019,"Texas",74.4
-"367157",2019,"Utah",82.5
-"368036",2019,"Vermont",81.1
-"368915",2019,"Virginia",78
-"369794",2019,"Washington",82.4
-"370673",2019,"West Virginia",71.8
-"371552",2019,"Wisconsin",78.2
-"372431",2019,"Wyoming",78.3
+Year,State,Physical Activity Percentage
+2000,Alabama,70.3
+2000,Alaska,76.5
+2000,Arizona,48.7
+2000,Arkansas,64.1
+2000,California,74.5
+2000,Colorado,78.7
+2000,Connecticut,72.8
+2000,District of Columbia,61.5
+2000,Delaware,64.6
+2000,Florida,68.9
+2000,Georgia,70.4
+2000,Hawaii,82
+2000,Idaho,79.6
+2000,Illinois,72.9
+2000,Indiana,72.9
+2000,Iowa,73.3
+2000,Kansas,61.7
+2000,Kentucky,57.4
+2000,Louisiana,67.8
+2000,Maine,72.3
+2000,Maryland,79.7
+2000,Massachusetts,74.6
+2000,Michigan,78.6
+2000,Minnesota,74.5
+2000,Mississippi,66.2
+2000,Missouri,72.1
+2000,Montana,74.8
+2000,Nebraska,73.9
+2000,Nevada,75.9
+2000,New Hampshire,75.2
+2000,New Jersey,67.4
+2000,New Mexico,77
+2000,New York,69
+2000,North Carolina,72.3
+2000,North Dakota,66.9
+2000,Ohio,70.2
+2000,Oklahoma,57.1
+2000,Oregon,81.1
+2000,Pennsylvania,67.3
+2000,Rhode Island,70.1
+2000,South Carolina,66.3
+2000,South Dakota,66.7
+2000,Tennessee,64.2
+2000,Texas,72.1
+2000,Utah,82.9
+2000,Vermont,74
+2000,Virginia,75.2
+2000,Washington,82.4
+2000,West Virginia,56.3
+2000,Wisconsin,76.6
+2000,Wyoming,79
+2001,Alabama,68.4
+2001,Alaska,80
+2001,Arizona,65.8
+2001,Arkansas,71.9
+2001,California,73.5
+2001,Colorado,80.2
+2001,Connecticut,74.8
+2001,District of Columbia,79.2
+2001,Delaware,72
+2001,Florida,71.2
+2001,Georgia,71
+2001,Hawaii,76.8
+2001,Idaho,80.2
+2001,Illinois,69.1
+2001,Indiana,74.6
+2001,Iowa,72.7
+2001,Kansas,69.6
+2001,Kentucky,58.9
+2001,Louisiana,63.8
+2001,Maine,72.8
+2001,Maryland,75.8
+2001,Massachusetts,75.4
+2001,Michigan,77.1
+2001,Minnesota,75.2
+2001,Mississippi,66.7
+2001,Missouri,71.2
+2001,Montana,76.7
+2001,Nebraska,70.4
+2001,Nevada,75.1
+2001,New Hampshire,73.3
+2001,New Jersey,71.4
+2001,New Mexico,75.6
+2001,New York,70.6
+2001,North Carolina,69.6
+2001,North Dakota,75.7
+2001,Ohio,68.7
+2001,Oklahoma,65.6
+2001,Oregon,79.9
+2001,Pennsylvania,77
+2001,Rhode Island,72.5
+2001,South Carolina,71.9
+2001,South Dakota,73.3
+2001,Tennessee,67.3
+2001,Texas,71.5
+2001,Utah,84.5
+2001,Vermont,76.8
+2001,Virginia,75
+2001,Washington,83.1
+2001,West Virginia,66.4
+2001,Wisconsin,77.9
+2001,Wyoming,77.4
+2002,Alabama,68.8
+2002,Alaska,78.9
+2002,Arizona,78.1
+2002,Arkansas,68.5
+2002,California,73.4
+2002,Colorado,80.8
+2002,Connecticut,76
+2002,District of Columbia,75.8
+2002,Delaware,74.3
+2002,Florida,72.3
+2002,Georgia,72.7
+2002,Hawaii,81.1
+2002,Idaho,79
+2002,Illinois,73.5
+2002,Indiana,73.8
+2002,Iowa,74.1
+2002,Kansas,73.3
+2002,Kentucky,66.6
+2002,Louisiana,64.4
+2002,Maine,76.8
+2002,Maryland,75.8
+2002,Massachusetts,77.2
+2002,Michigan,76.6
+2002,Minnesota,82.9
+2002,Mississippi,66.6
+2002,Missouri,72.5
+2002,Montana,78.1
+2002,Nebraska,68.6
+2002,Nevada,77.4
+2002,New Hampshire,80.5
+2002,New Jersey,73.4
+2002,New Mexico,74.2
+2002,New York,71.3
+2002,North Carolina,73.6
+2002,North Dakota,76.8
+2002,Ohio,73.8
+2002,Oklahoma,67.2
+2002,Oregon,79.2
+2002,Pennsylvania,75.3
+2002,Rhode Island,75.1
+2002,South Carolina,73.6
+2002,South Dakota,74.6
+2002,Tennessee,64.9
+2002,Texas,72.9
+2002,Utah,83.5
+2002,Vermont,79.7
+2002,Virginia,76.8
+2002,Washington,82.9
+2002,West Virginia,68.3
+2002,Wisconsin,79.3
+2002,Wyoming,78.8
+2003,Alabama,72.7
+2003,Alaska,77.6
+2003,Arizona,77.4
+2003,Arkansas,72.6
+2003,California,77.3
+2003,Colorado,80.7
+2003,Connecticut,78
+2003,District of Columbia,79.1
+2003,Delaware,72.9
+2003,Florida,72.1
+2003,Georgia,74.3
+2003,Hawaii,83.9
+2003,Idaho,80.7
+2003,Illinois,71.4
+2003,Indiana,72.5
+2003,Iowa,78.2
+2003,Kansas,77.5
+2003,Kentucky,73.4
+2003,Louisiana,66.5
+2003,Maine,74.2
+2003,Maryland,77
+2003,Massachusetts,79.2
+2003,Michigan,75.9
+2003,Minnesota,83.8
+2003,Mississippi,67.5
+2003,Missouri,73.5
+2003,Montana,80.8
+2003,Nebraska,78
+2003,Nevada,75.2
+2003,New Hampshire,80.1
+2003,New Jersey,74
+2003,New Mexico,77
+2003,New York,74.9
+2003,North Carolina,70.5
+2003,North Dakota,78.3
+2003,Ohio,74.6
+2003,Oklahoma,69.4
+2003,Oregon,82.1
+2003,Pennsylvania,75.6
+2003,Rhode Island,75.4
+2003,South Carolina,75.4
+2003,South Dakota,76.2
+2003,Tennessee,66.4
+2003,Texas,70.7
+2003,Utah,81.1
+2003,Vermont,81.7
+2003,Virginia,75.6
+2003,Washington,85
+2003,West Virginia,71.6
+2003,Wisconsin,80
+2003,Wyoming,79.6
+2004,Alabama,70.1
+2004,Alaska,80.8
+2004,Arizona,78.8
+2004,Arkansas,70.9
+2004,California,77.7
+2004,Colorado,83.2
+2004,Connecticut,79
+2004,District of Columbia,77.5
+2004,Delaware,73.5
+2004,Florida,72.1
+2004,Georgia,75.5
+2004,Hawaii,81.7
+2004,Idaho,81.4
+2004,Illinois,74.3
+2004,Indiana,73.8
+2004,Iowa,77.3
+2004,Kansas,74.1
+2004,Kentucky,69.4
+2004,Louisiana,69.5
+2004,Maine,79.4
+2004,Maryland,78.7
+2004,Massachusetts,78.4
+2004,Michigan,78.2
+2004,Minnesota,85
+2004,Mississippi,69.7
+2004,Missouri,76
+2004,Montana,79.8
+2004,Nebraska,79.3
+2004,Nevada,75.3
+2004,New Hampshire,80.1
+2004,New Jersey,73.1
+2004,New Mexico,77.1
+2004,New York,72.9
+2004,North Carolina,75
+2004,North Dakota,76.3
+2004,Ohio,73.6
+2004,Oklahoma,69.6
+2004,Oregon,81.2
+2004,Pennsylvania,77.4
+2004,Rhode Island,76.7
+2004,South Carolina,76.7
+2004,South Dakota,78.3
+2004,Tennessee,70.2
+2004,Texas,72.4
+2004,Utah,82.7
+2004,Vermont,81.3
+2004,Virginia,77.9
+2004,Washington,82.3
+2004,West Virginia,72
+2004,Wisconsin,81.2
+2004,Wyoming,78.9
+2005,Alabama,70.4
+2005,Alaska,79.4
+2005,Arizona,75.8
+2005,Arkansas,73.5
+2005,California,77.3
+2005,Colorado,81.3
+2005,Connecticut,81.1
+2005,District of Columbia,77.7
+2005,Delaware,78.2
+2005,Florida,76.4
+2005,Georgia,74.2
+2005,Hawaii,81.7
+2005,Idaho,80.9
+2005,Illinois,75.1
+2005,Indiana,74.7
+2005,Iowa,78.7
+2005,Kansas,76.8
+2005,Kentucky,70.2
+2005,Louisiana,70.2
+2005,Maine,78.5
+2005,Maryland,78.2
+2005,Massachusetts,80
+2005,Michigan,77.9
+2005,Minnesota,84.1
+2005,Mississippi,68.7
+2005,Missouri,75.2
+2005,Montana,81.1
+2005,Nebraska,78.4
+2005,Nevada,75.8
+2005,New Hampshire,81.5
+2005,New Jersey,74.3
+2005,New Mexico,78.8
+2005,New York,73.5
+2005,North Carolina,75.3
+2005,North Dakota,78.7
+2005,Ohio,77
+2005,Oklahoma,72.2
+2005,Oregon,82.8
+2005,Pennsylvania,75.6
+2005,Rhode Island,75.8
+2005,South Carolina,76.2
+2005,South Dakota,81
+2005,Tennessee,70.3
+2005,Texas,73.9
+2005,Utah,83.1
+2005,Vermont,81.9
+2005,Virginia,78.1
+2005,Washington,82.7
+2005,West Virginia,75.5
+2005,Wisconsin,81.5
+2005,Wyoming,79.9
+2006,Alabama,70.3
+2006,Alaska,78.6
+2006,Arizona,77.4
+2006,Arkansas,69.4
+2006,California,76.1
+2006,Colorado,82.7
+2006,Connecticut,78.8
+2006,District of Columbia,77.5
+2006,Delaware,76.7
+2006,Florida,73.1
+2006,Georgia,72.8
+2006,Hawaii,80.5
+2006,Idaho,78.4
+2006,Illinois,74.4
+2006,Indiana,73.1
+2006,Iowa,75.3
+2006,Kansas,75.6
+2006,Kentucky,68.5
+2006,Louisiana,66.6
+2006,Maine,77.7
+2006,Maryland,77.1
+2006,Massachusetts,76.7
+2006,Michigan,77.5
+2006,Minnesota,83.8
+2006,Mississippi,67.6
+2006,Missouri,74.6
+2006,Montana,77.6
+2006,Nebraska,76.2
+2006,Nevada,73.2
+2006,New Hampshire,78.4
+2006,New Jersey,70.8
+2006,New Mexico,76.7
+2006,New York,72.9
+2006,North Carolina,74.4
+2006,North Dakota,76.9
+2006,Ohio,74.4
+2006,Oklahoma,69.4
+2006,Oregon,81.4
+2006,Pennsylvania,74.2
+2006,Rhode Island,74.1
+2006,South Carolina,73.7
+2006,South Dakota,77.5
+2006,Tennessee,66.9
+2006,Texas,72.6
+2006,Utah,81.5
+2006,Vermont,80.8
+2006,Virginia,78.7
+2006,Washington,82.6
+2006,West Virginia,71.5
+2006,Wisconsin,81.3
+2006,Wyoming,78
+2007,Alabama,70.8
+2007,Alaska,78.6
+2007,Arizona,77.7
+2007,Arkansas,71.3
+2007,California,77
+2007,Colorado,82.6
+2007,Connecticut,80.2
+2007,District of Columbia,77.9
+2007,Delaware,78.4
+2007,Florida,74.9
+2007,Georgia,75.3
+2007,Hawaii,80.7
+2007,Idaho,79.2
+2007,Illinois,77.6
+2007,Indiana,74.7
+2007,Iowa,77.7
+2007,Kansas,77.4
+2007,Kentucky,69.6
+2007,Louisiana,69
+2007,Maine,79.1
+2007,Maryland,77
+2007,Massachusetts,78.9
+2007,Michigan,77.2
+2007,Minnesota,85.8
+2007,Mississippi,68.9
+2007,Missouri,76.8
+2007,Montana,80.6
+2007,Nebraska,79
+2007,Nevada,72.9
+2007,New Hampshire,80.4
+2007,New Jersey,73
+2007,New Mexico,77.4
+2007,New York,74
+2007,North Carolina,76.2
+2007,North Dakota,78
+2007,Ohio,75.5
+2007,Oklahoma,70.2
+2007,Oregon,83.6
+2007,Pennsylvania,77.1
+2007,Rhode Island,75.3
+2007,South Carolina,75.7
+2007,South Dakota,76
+2007,Tennessee,71.2
+2007,Texas,71.6
+2007,Utah,80.6
+2007,Vermont,82.1
+2007,Virginia,78.3
+2007,Washington,82.7
+2007,West Virginia,74.4
+2007,Wisconsin,80.7
+2007,Wyoming,78.1
+2008,Alabama,70.2
+2008,Alaska,80
+2008,Arizona,77.6
+2008,Arkansas,71.9
+2008,California,76.9
+2008,Colorado,82.7
+2008,Connecticut,80.3
+2008,District of Columbia,78.7
+2008,Delaware,77.9
+2008,Florida,74.6
+2008,Georgia,75.3
+2008,Hawaii,82
+2008,Idaho,80.4
+2008,Illinois,77
+2008,Indiana,75.8
+2008,Iowa,77.9
+2008,Kansas,77
+2008,Kentucky,69.7
+2008,Louisiana,70
+2008,Maine,79.7
+2008,Maryland,77
+2008,Massachusetts,78.9
+2008,Michigan,79.2
+2008,Minnesota,83.3
+2008,Mississippi,68.2
+2008,Missouri,74.5
+2008,Montana,80.4
+2008,Nebraska,77.8
+2008,Nevada,75.6
+2008,New Hampshire,80.9
+2008,New Jersey,73.9
+2008,New Mexico,78.3
+2008,New York,75.6
+2008,North Carolina,75.7
+2008,North Dakota,77.5
+2008,Ohio,75.7
+2008,Oklahoma,70.4
+2008,Oregon,82.7
+2008,Pennsylvania,76.6
+2008,Rhode Island,76.6
+2008,South Carolina,75.2
+2008,South Dakota,77.4
+2008,Tennessee,68.5
+2008,Texas,71.7
+2008,Utah,80.5
+2008,Vermont,81.7
+2008,Virginia,78.4
+2008,Washington,82.4
+2008,West Virginia,71.8
+2008,Wisconsin,80.6
+2008,Wyoming,78.3
+2009,Alabama,70.5
+2009,Alaska,75.9
+2009,Arizona,76.8
+2009,Arkansas,70.2
+2009,California,76.6
+2009,Colorado,81.1
+2009,Connecticut,77.5
+2009,District of Columbia,78.8
+2009,Delaware,75.8
+2009,Florida,74
+2009,Georgia,76.9
+2009,Hawaii,80.4
+2009,Idaho,78.8
+2009,Illinois,72
+2009,Indiana,72.2
+2009,Iowa,74.9
+2009,Kansas,74.4
+2009,Kentucky,69.5
+2009,Louisiana,70.1
+2009,Maine,77.1
+2009,Maryland,76
+2009,Massachusetts,77.9
+2009,Michigan,74.8
+2009,Minnesota,81.9
+2009,Mississippi,67.4
+2009,Missouri,72.4
+2009,Montana,76.8
+2009,Nebraska,75.3
+2009,Nevada,72.4
+2009,New Hampshire,78.5
+2009,New Jersey,73
+2009,New Mexico,76
+2009,New York,73.6
+2009,North Carolina,75.3
+2009,North Dakota,74.4
+2009,Ohio,73.9
+2009,Oklahoma,68.5
+2009,Oregon,80.9
+2009,Pennsylvania,74.2
+2009,Rhode Island,75.7
+2009,South Carolina,72.8
+2009,South Dakota,73.1
+2009,Tennessee,71
+2009,Texas,71.5
+2009,Utah,80.2
+2009,Vermont,80.5
+2009,Virginia,76.4
+2009,Washington,80.6
+2009,West Virginia,68.9
+2009,Wisconsin,77.9
+2009,Wyoming,75.6
+2010,Alabama,69
+2010,Alaska,77.6
+2010,Arizona,81
+2010,Arkansas,70.2
+2010,California,77.9
+2010,Colorado,82.3
+2010,Connecticut,78.4
+2010,District of Columbia,80.4
+2010,Delaware,78.1
+2010,Florida,75.3
+2010,Georgia,75.8
+2010,Hawaii,80.4
+2010,Idaho,79
+2010,Illinois,76.4
+2010,Indiana,72.8
+2010,Iowa,75.8
+2010,Kansas,76.8
+2010,Kentucky,70.3
+2010,Louisiana,71.4
+2010,Maine,78.8
+2010,Maryland,76.2
+2010,Massachusetts,79.1
+2010,Michigan,76.4
+2010,Minnesota,84.2
+2010,Mississippi,67.7
+2010,Missouri,73.3
+2010,Montana,78
+2010,Nebraska,75.8
+2010,Nevada,75.6
+2010,New Hampshire,78.8
+2010,New Jersey,73.8
+2010,New Mexico,77.6
+2010,New York,73.6
+2010,North Carolina,73.6
+2010,North Dakota,73.2
+2010,Ohio,73.6
+2010,Oklahoma,68.6
+2010,Oregon,82.3
+2010,Pennsylvania,74.3
+2010,Rhode Island,75.1
+2010,South Carolina,73.8
+2010,South Dakota,75.5
+2010,Tennessee,69
+2010,Texas,72.7
+2010,Utah,82.3
+2010,Vermont,79.8
+2010,Virginia,78.1
+2010,Washington,80.5
+2010,West Virginia,66.8
+2010,Wisconsin,78
+2010,Wyoming,77.5
+2011,Alabama,68.9
+2011,Alaska,78
+2011,Arizona,78
+2011,Arkansas,70.2
+2011,California,79.6
+2011,Colorado,81.8
+2011,Connecticut,79.3
+2011,District of Columbia,78.6
+2011,Delaware,76.1
+2011,Florida,76
+2011,Georgia,74.9
+2011,Hawaii,80.8
+2011,Idaho,80
+2011,Illinois,74.3
+2011,Indiana,73.5
+2011,Iowa,75.2
+2011,Kansas,76
+2011,Kentucky,70.7
+2011,Louisiana,69.9
+2011,Maine,77.5
+2011,Maryland,76.9
+2011,Massachusetts,79.4
+2011,Michigan,76.4
+2011,Minnesota,80.9
+2011,Mississippi,67
+2011,Missouri,72.8
+2011,Montana,78.4
+2011,Nebraska,75.3
+2011,Nevada,77
+2011,New Hampshire,80.1
+2011,New Jersey,73.4
+2011,New Mexico,78.4
+2011,New York,76.1
+2011,North Carolina,74.3
+2011,North Dakota,75.2
+2011,Ohio,73.9
+2011,Oklahoma,70.1
+2011,Oregon,82.5
+2011,Pennsylvania,74.2
+2011,Rhode Island,75.9
+2011,South Carolina,72.2
+2011,South Dakota,75.3
+2011,Tennessee,70.1
+2011,Texas,73.4
+2011,Utah,82.1
+2011,Vermont,82.1
+2011,Virginia,76.7
+2011,Washington,81.7
+2011,West Virginia,67.1
+2011,Wisconsin,77.2
+2011,Wyoming,77.8
+2012,Alabama,67.4
+2012,Alaska,78
+2012,Arizona,75.8
+2012,Arkansas,69.1
+2012,California,80.9
+2012,Colorado,83.5
+2012,Connecticut,74.5
+2012,District of Columbia,80.2
+2012,Delaware,73
+2012,Florida,73.1
+2012,Georgia,73.3
+2012,Hawaii,78.7
+2012,Idaho,78.6
+2012,Illinois,74.9
+2012,Indiana,70.8
+2012,Iowa,74.1
+2012,Kansas,73.2
+2012,Kentucky,70.7
+2012,Louisiana,66.2
+2012,Maine,77
+2012,Maryland,73.8
+2012,Massachusetts,76.5
+2012,Michigan,76.4
+2012,Minnesota,78.1
+2012,Mississippi,64
+2012,Missouri,71.6
+2012,Montana,75.6
+2012,Nebraska,73.7
+2012,Nevada,75.7
+2012,New Hampshire,77.5
+2012,New Jersey,73.6
+2012,New Mexico,74.7
+2012,New York,73.7
+2012,North Carolina,73.3
+2012,North Dakota,72.9
+2012,Ohio,73
+2012,Oklahoma,68.8
+2012,Oregon,80.3
+2012,Pennsylvania,73.8
+2012,Rhode Island,73.8
+2012,South Carolina,72.8
+2012,South Dakota,73.1
+2012,Tennessee,64.9
+2012,Texas,72.8
+2012,Utah,81.1
+2012,Vermont,79
+2012,Virginia,75
+2012,Washington,78
+2012,West Virginia,64.9
+2012,Wisconsin,77.3
+2012,Wyoming,74.5
+2013,Alabama,72.8
+2013,Alaska,81.6
+2013,Arizona,77.5
+2013,Arkansas,68.6
+2013,California,82
+2013,Colorado,83
+2013,Connecticut,77.9
+2013,District of Columbia,82.6
+2013,Delaware,76.5
+2013,Florida,76.8
+2013,Georgia,76.4
+2013,Hawaii,81.3
+2013,Idaho,79.7
+2013,Illinois,78.2
+2013,Indiana,74.1
+2013,Iowa,76.9
+2013,Kansas,77.1
+2013,Kentucky,70.4
+2013,Louisiana,70.1
+2013,Maine,79.1
+2013,Maryland,77
+2013,Massachusetts,80.3
+2013,Michigan,76.7
+2013,Minnesota,82.5
+2013,Mississippi,69.2
+2013,Missouri,75.3
+2013,Montana,79.5
+2013,Nebraska,79
+2013,Nevada,78.7
+2013,New Hampshire,80.1
+2013,New Jersey,75.1
+2013,New Mexico,78.2
+2013,New York,75.4
+2013,North Carolina,75.1
+2013,North Dakota,76.2
+2013,Ohio,74.8
+2013,Oklahoma,71.7
+2013,Oregon,83.8
+2013,Pennsylvania,76.6
+2013,Rhode Island,76.6
+2013,South Carolina,75
+2013,South Dakota,77.5
+2013,Tennessee,71.4
+2013,Texas,72.8
+2013,Utah,83.5
+2013,Vermont,82.8
+2013,Virginia,77.5
+2013,Washington,81.1
+2013,West Virginia,69
+2013,Wisconsin,79.7
+2013,Wyoming,78.9
+2014,Alabama,68.5
+2014,Alaska,77.7
+2014,Arizona,74.8
+2014,Arkansas,65.6
+2014,California,78.6
+2014,Colorado,82.1
+2014,Connecticut,75.1
+2014,District of Columbia,80.5
+2014,Delaware,72.2
+2014,Florida,72.3
+2014,Georgia,72.8
+2014,Hawaii,77.9
+2014,Idaho,76.3
+2014,Illinois,74.9
+2014,Indiana,69
+2014,Iowa,71.5
+2014,Kansas,73.5
+2014,Kentucky,69.8
+2014,Louisiana,67.8
+2014,Maine,76.7
+2014,Maryland,74.7
+2014,Massachusetts,76.5
+2014,Michigan,75.6
+2014,Minnesota,76.5
+2014,Mississippi,61.9
+2014,Missouri,71.7
+2014,Montana,77.5
+2014,Nebraska,74.7
+2014,Nevada,76.3
+2014,New Hampshire,77.6
+2014,New Jersey,73.2
+2014,New Mexico,75.7
+2014,New York,73.3
+2014,North Carolina,73.4
+2014,North Dakota,72.4
+2014,Ohio,71.5
+2014,Oklahoma,67
+2014,Oregon,81.5
+2014,Pennsylvania,73.7
+2014,Rhode Island,73.1
+2014,South Carolina,73.1
+2014,South Dakota,76.2
+2014,Tennessee,62.8
+2014,Texas,69.9
+2014,Utah,79.4
+2014,Vermont,79.5
+2014,Virginia,74.5
+2014,Washington,80
+2014,West Virginia,68.6
+2014,Wisconsin,76.2
+2014,Wyoming,74.9
+2015,Alabama,72.4
+2015,Alaska,80.8
+2015,Arizona,78.8
+2015,Arkansas,69.3
+2015,California,78.3
+2015,Colorado,83.6
+2015,Connecticut,79.4
+2015,District of Columbia,79.2
+2015,Delaware,75.1
+2015,Florida,76.3
+2015,Georgia,76.4
+2015,Hawaii,80.4
+2015,Idaho,81.3
+2015,Illinois,76.1
+2015,Indiana,73.9
+2015,Iowa,77.4
+2015,Kansas,76.2
+2015,Kentucky,71.8
+2015,Louisiana,70.5
+2015,Maine,80.3
+2015,Maryland,78.6
+2015,Massachusetts,79.9
+2015,Michigan,74.5
+2015,Minnesota,79.8
+2015,Mississippi,68.4
+2015,Missouri,75
+2015,Montana,80.4
+2015,Nebraska,78.7
+2015,Nevada,77.5
+2015,New Hampshire,80.7
+2015,New Jersey,76.7
+2015,New Mexico,76.7
+2015,New York,74.1
+2015,North Carolina,76.8
+2015,North Dakota,78.7
+2015,Ohio,75
+2015,Oklahoma,71.7
+2015,Oregon,83.5
+2015,Pennsylvania,76.7
+2015,Rhode Island,77.5
+2015,South Carolina,74.7
+2015,South Dakota,78.8
+2015,Tennessee,73.2
+2015,Texas,72.4
+2015,Utah,83.2
+2015,Vermont,81
+2015,Virginia,76.5
+2015,Washington,81.9
+2015,West Virginia,71.3
+2015,Wisconsin,78.8
+2015,Wyoming,77.9
+2016,Alabama,68.1
+2016,Alaska,78
+2016,Arizona,75.3
+2016,Arkansas,65.8
+2016,California,80
+2016,Colorado,82.1
+2016,Connecticut,76.5
+2016,District of Columbia,80.6
+2016,Delaware,70.6
+2016,Florida,73.8
+2016,Georgia,72.7
+2016,Hawaii,77.5
+2016,Idaho,78.8
+2016,Illinois,75.2
+2016,Indiana,70.6
+2016,Iowa,73.7
+2016,Kansas,73.5
+2016,Kentucky,67.5
+2016,Louisiana,68.1
+2016,Maine,75.2
+2016,Maryland,75.9
+2016,Massachusetts,73.5
+2016,Michigan,74.5
+2016,Minnesota,78.2
+2016,Mississippi,63.2
+2016,Missouri,73
+2016,Montana,77.5
+2016,Nebraska,74.7
+2016,Nevada,75.3
+2016,New Hampshire,77.4
+2016,New Jersey,72.8
+2016,New Mexico,77.4
+2016,New York,70.7
+2016,North Carolina,73.8
+2016,North Dakota,73.2
+2016,Ohio,73
+2016,Oklahoma,66.8
+2016,Oregon,81.2
+2016,Pennsylvania,72.2
+2016,Rhode Island,71.9
+2016,South Carolina,73.3
+2016,South Dakota,78.5
+2016,Tennessee,69.6
+2016,Texas,70.5
+2016,Utah,79.7
+2016,Vermont,77.8
+2016,Virginia,74.9
+2016,Washington,81
+2016,West Virginia,69.2
+2016,Wisconsin,78.4
+2016,Wyoming,73.8
+2017,Alabama,70.6
+2017,Alaska,80.9
+2017,Arizona,76.9
+2017,Arkansas,67.5
+2017,California,79.5
+2017,Colorado,84.2
+2017,Connecticut,78.7
+2017,District of Columbia,83.8
+2017,Delaware,73.4
+2017,Florida,70.2
+2017,Georgia,70.6
+2017,Hawaii,79.2
+2017,Idaho,79.8
+2017,Illinois,76.1
+2017,Indiana,73.2
+2017,Iowa,77.3
+2017,Kansas,76.5
+2017,Kentucky,70.2
+2017,Louisiana,70.9
+2017,Maine,79.4
+2017,Maryland,76.9
+2017,Massachusetts,80
+2017,Michigan,76.1
+2017,Minnesota,82
+2017,Mississippi,69.7
+2017,Missouri,75.1
+2017,Montana,80.1
+2017,Nebraska,77.6
+2017,Nevada,75.3
+2017,New Hampshire,80.7
+2017,New Jersey,70.2
+2017,New Mexico,79.7
+2017,New York,73.7
+2017,North Carolina,76.7
+2017,North Dakota,77.8
+2017,Ohio,74.1
+2017,Oklahoma,71.5
+2017,Oregon,82.8
+2017,Pennsylvania,77.1
+2017,Rhode Island,75.6
+2017,South Carolina,73.1
+2017,South Dakota,81.1
+2017,Tennessee,71.6
+2017,Texas,74.8
+2017,Utah,84.3
+2017,Vermont,80.5
+2017,Virginia,76.7
+2017,Washington,82.4
+2017,West Virginia,71.5
+2017,Wisconsin,80
+2017,Wyoming,76.9
+2018,Alabama,68
+2018,Alaska,79.4
+2018,Arizona,74.9
+2018,Arkansas,67.5
+2018,California,80
+2018,Colorado,80.5
+2018,Connecticut,76
+2018,District of Columbia,77
+2018,Delaware,69
+2018,Florida,70.8
+2018,Georgia,69
+2018,Hawaii,76.5
+2018,Idaho,75.8
+2018,Illinois,76
+2018,Indiana,70.2
+2018,Iowa,75
+2018,Kansas,72.1
+2018,Kentucky,65.6
+2018,Louisiana,68.2
+2018,Maine,74.8
+2018,Maryland,74.4
+2018,Massachusetts,75.2
+2018,Michigan,72.8
+2018,Minnesota,75.4
+2018,Mississippi,66.8
+2018,Missouri,70.8
+2018,Montana,75
+2018,Nebraska,74.6
+2018,Nevada,72
+2018,New Hampshire,76.1
+2018,New Jersey,71
+2018,New Mexico,75.5
+2018,New York,72.8
+2018,North Carolina,74.4
+2018,North Dakota,72.4
+2018,Ohio,70.4
+2018,Oklahoma,67.6
+2018,Oregon,78.6
+2018,Pennsylvania,75.1
+2018,Rhode Island,73.7
+2018,South Carolina,71.6
+2018,South Dakota,75.1
+2018,Tennessee,69.4
+2018,Texas,67.9
+2018,Utah,78.9
+2018,Vermont,78.4
+2018,Virginia,74.1
+2018,Washington,80.8
+2018,West Virginia,68.4
+2018,Wisconsin,77.6
+2018,Wyoming,74.3
+2019,Alabama,69.3
+2019,Alaska,80.4
+2019,Arizona,77.9
+2019,Arkansas,69
+2019,California,79
+2019,Colorado,83.6
+2019,Connecticut,77.6
+2019,District of Columbia,80.4
+2019,Delaware,73.2
+2019,Florida,73.2
+2019,Georgia,73.8
+2019,Hawaii,80.1
+2019,Idaho,79.5
+2019,Illinois,75.4
+2019,Indiana,72.6
+2019,Iowa,77.1
+2019,Kansas,77.5
+2019,Kentucky,67.6
+2019,Louisiana,69.2
+2019,Maine,77.5
+2019,Maryland,77.1
+2019,Massachusetts,77.6
+2019,Michigan,76.2
+2019,Minnesota,79.5
+2019,Mississippi,68
+2019,Missouri,73.9
+2019,Montana,77.3
+2019,Nebraska,76.2
+2019,Nevada,75
+2019,New Hampshire,78.5
+2019,New Jersey,71.5
+2019,New Mexico,77.8
+2019,New York,76.2
+2019,North Carolina,76.1
+2019,North Dakota,77.7
+2019,Ohio,74.6
+2019,Oklahoma,72.8
+2019,Oregon,80.7
+2019,Pennsylvania,76
+2019,Rhode Island,74.7
+2019,South Carolina,73.3
+2019,South Dakota,76
+2019,Tennessee,69.1
+2019,Texas,74.4
+2019,Utah,82.5
+2019,Vermont,81.1
+2019,Virginia,78
+2019,Washington,82.4
+2019,West Virginia,71.8
+2019,Wisconsin,78.2
+2019,Wyoming,78.3
